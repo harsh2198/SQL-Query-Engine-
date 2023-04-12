@@ -1,1 +1,1 @@
-# CIS552Project
+# AQI Interactive Visualization
